@@ -1,5 +1,7 @@
 # Proposition d'amélioration
-Proposition d'amélioration du script "free_gaussian_wp_1D.py"
+Proposition d'amélioration du script "free_gaussian_wp_1D.py", provenant du repository de Pr. Jean-Marc Sparenberg : 
+https://github.com/jmspar/PP
+
 
 ### Ajouts
 - Bouton pause/play/back
